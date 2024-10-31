@@ -1,0 +1,14 @@
+Data Sources:
+
+Runoff, Water Level, and Precipitation data from the Brazilian Agência Nacional de Águas (ANA).
+Website: https://www.snirh.gov.br/hidroweb/serieshistoricas 
+Runoff station: Porto Murtinho (67100000)
+Water Levels station: Ladario (66825000)
+
+
+Potential Evapotranspiration, Temperature, Vapor Pressure Deficit, and Precipitation data are from ERA5-Land, available in Google Earth Engine.
+https://developers.google.com/earth-engine/datasets/catalog/ECMWF_ERA5_MONTHLY
+
+
+Land Use and Cover Maps are from the MapBiomas project. The data is also available in Google Earth Engine. 
+ee.Image('projects/mapbiomas-workspace/public/collection7/mapbiomas_collection70_integration_v2')
