@@ -21,7 +21,7 @@ The primary tools used in this repository include Python and the following packa
 
 To install the required packages:
 ```bash
-pip install -r requirements.txt
+pip install -r requirements.txt```
 
    
 ## Repository Structure
