@@ -35,7 +35,7 @@ pip install -r requirements.txt
 
 If you use this repository in your research, please cite the article as follows:
 
-> Author(s), "Decadal Hydroclimatic Changes in the Pantanal – the World's Largest Tropical Wetland," Journal, Year.
+> Caballero, C. B., Biggs, T. W., Vergopolan, N., Camelo, L. G. G., de Andrade, B. C., Laipelt, L., & L. Ruhoff, A. (2025). Decadal hydroclimatic changes in the Pantanal, the world’s largest tropical wetland. Scientific Reports, 15(1), 17675. https://doi.org/10.1038/s41598-025-01980-6
 
 ## License
 
